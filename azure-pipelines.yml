@@ -1,3 +1,4 @@
+
 pool:
   vmImage: ubuntu-latest
 trigger:
