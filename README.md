@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/taox2/TailspinJD/_apis/build/status/xt-k.ContosoAir?branchName=master)](https://dev.azure.com/taox2/TailspinJD/_build/latest?definitionId=7&branchName=master)
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
