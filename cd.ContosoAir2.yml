@@ -14,10 +14,6 @@ resources:
        include:
          - master
 
-
-continueOnError: 
-
-container:
 pool:
   vmImage: ubuntu-latest
 
